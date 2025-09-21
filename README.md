@@ -1,2 +1,2 @@
 # chatfinder
-Real Life Problem Solving Project
+Solved Real Life Discord Issue
