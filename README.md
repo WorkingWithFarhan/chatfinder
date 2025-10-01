@@ -1,2 +1,2 @@
 # chatfinder
-Solved Real Life Discord Issue
+My Journey's First Project 
